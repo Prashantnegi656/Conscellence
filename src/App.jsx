@@ -293,7 +293,7 @@ function App() {
                 </div>
                 <div className="contact-row">
                   <div className="circle-white">✉️</div>
-                  <div className="contact-text">info@conscellence.com</div>
+                  <div className="contact-text">info88@conscellence.com</div>
                 </div>
                 <div className="contact-row">
                   <div className="circle-white">📍</div>
